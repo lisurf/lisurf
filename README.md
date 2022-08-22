@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liliana Santos</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **li.surf@hotmail.com**
 
 - ⚡ **I’m a young web design course finalist at Lisbon School Design. I dedicate myself to several passions, being one expressive and creative person with good communication and learning skills. I find myself avaliable to take on new challenges and earn experience with them.**
