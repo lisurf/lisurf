@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **li.surf@hotmail.com**
 
-- ⚡ **I’m a young web design course finalist at Lisbon School Design. I dedicate myself to several passions, being one expressive and creative person with good communication and learning skills. I find myself avaliable to take on new challenges and earn experience with them.**
+- ⚡ **I’m a young web design course finalist at Lisbon School of Design. I dedicate myself to several passions, being one expressive and creative person with good communication and learning skills. I find myself avaliable to take on new challenges and earn experience with them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
