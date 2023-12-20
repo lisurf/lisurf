@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liliana Santos</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A passionate UX/UI designer from Portugal</h3>
 
 - 📫 How to reach me **li.surf@hotmail.com**
 
-- ⚡ **I’m a young web design course finalist at Lisbon School of Design. I dedicate myself to several passions, being one expressive and creative person with good communication and learning skills. I find myself avaliable to take on new challenges and earn experience with them.**
+- ⚡ **I am a UX/UI designer based in Corroios. With a background in front-end development, I maintain harmony between design and code..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
